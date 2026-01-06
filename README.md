@@ -163,8 +163,3 @@ Connect system to cloud platforms (AWS, Azure).
 
 Add dashboard visualization with analytics and notifications.
 
-Use AI/ML for energy prediction and optimization.
-
-Vinayak Rathi
-
-Industrial Internship – Upskill Campus & UniConverge Technologies Pvt Ltd
